@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+validators
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
